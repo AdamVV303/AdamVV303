@@ -1,16 +1,23 @@
-## Hi there 👋
+# Adam Van Vranken 👋
 
-<!--
-**AdamVV303/AdamVV303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SEO Specialist at Brawn Media** · MBA in Internet Marketing · Denver, CO
 
-Here are some ideas to get you started:
+I work where search is headed — classic SEO plus the new answer economy: **AEO** (Answer Engine Optimization) and **GEO** (Generative Engine Optimization).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+
+- Building a versioned **prompt library** for practical, hands-on ChatGPT workflows — [Prompt-library-](https://github.com/AdamVV303/Prompt-library-)
+- Assembling an **SEO workbench** of reusable templates: keyword research, competitor gap analysis, internal link planning — [SEO-workbench-](https://github.com/AdamVV303/SEO-workbench-)
+
+## 🌱 What I'm learning
+
+- Answer engines and generative AI search — staying sharp on traditional search while leveling up on AEO/GEO
+- Prompt engineering tied to real day-to-day SEO work, not tutorials
+
+## 🛠️ Focus areas
+
+`SEO` `AEO` `GEO` `Technical SEO` `Content Strategy` `Prompt Engineering`
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/internetmarketer)
