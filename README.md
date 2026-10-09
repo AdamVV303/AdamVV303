@@ -20,18 +20,7 @@ I work where search is headed — classic SEO plus the new answer economy: **AEO
 
 ## 📸 From Instagram
 
-<table>
-  <tr>
-    <td><a href="https://www.instagram.com/p/DeQSm2oFN_Q/"><img src="assets/instagram-grid/ig-1.jpg" width="250" alt="Spooky season"></a></td>
-    <td><a href="https://www.instagram.com/p/DeNjaaYhCF5/"><img src="assets/instagram-grid/ig-2.jpg" width="250" alt="Beard and good light"></a></td>
-    <td><a href="https://www.instagram.com/p/Dd7S3Zrptcq/"><img src="assets/instagram-grid/ig-3.jpg" width="250" alt="Hockey opening night"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.instagram.com/p/DdW7jzwRNws/"><img src="assets/instagram-grid/ig-4.jpg" width="250" alt="Adidas jumpsuit"></a></td>
-    <td><a href="https://www.instagram.com/p/DdVHOBREQza/"><img src="assets/instagram-grid/ig-5.jpg" width="250" alt="Favorite hat"></a></td>
-    <td><a href="https://www.instagram.com/p/DdRy6DZnxJL/"><img src="assets/instagram-grid/ig-6.jpg" width="250" alt="Broncos gang"></a></td>
-  </tr>
-</table>
+Check out my latest shots on [my website](https://adamvv303.github.io/#instagram) 📷
 
 ## 📫 Connect
 
